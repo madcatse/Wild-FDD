@@ -1,0 +1,12 @@
+
+Mechanicals:
+ Board OutLine - Wild FDD V1.1 Board OutLine.gbr
+ Drill         - Wild FDD V1.1 Drill.drl
+
+Layers:
+ Top Silk      - Wild FDD V1.1 Silk Top.gbr
+ Top Solder    - Wild FDD V1.1 Solder Top.gbr
+ Top Layer     - Wild FDD V1.1 Layer Top.gbr
+ Bottom Layer  - Wild FDD V1.1 Layer Bottom.gbr
+ Bottom Solder - Wild FDD V1.1 Solder Bottom.gbr
+ Bottom Silk   - Wild FDD V1.1 Silk Bottom.gbr
